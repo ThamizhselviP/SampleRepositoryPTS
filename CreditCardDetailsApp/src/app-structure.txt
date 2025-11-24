@@ -1,0 +1,18 @@
+src
+      App
+         payment-details
+                payment-details.component.ts | .html
+                payment-detail-form
+	
+                        payment-detail-form.component.ts | .html
+
+
+        Shared
+            Payment-detail.service.ts
+
+            Payment-detail.model.ts
+
+            app-module.ts
+	styles.css
+
+	index.html
